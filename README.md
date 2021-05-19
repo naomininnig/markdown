@@ -2,7 +2,7 @@
 ## Getting Started!
 ### What is Markdown?
 
-## ** check the link ** [Wikipedia](https://en.wikipedia.org/wiki/Markdown).
+## check the link  [Wikipedia](https://en.wikipedia.org/wiki/Markdown).
 
 ### Exmples:
 * styling test *
