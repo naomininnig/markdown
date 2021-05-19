@@ -5,7 +5,7 @@
 ## check the link  [Wikipedia](https://en.wikipedia.org/wiki/Markdown).
 
 ### Exmples:
-* styling test *
+* styling text * 
 - **bold**
 -  _italic_
 - ~~Strikethrough~~
